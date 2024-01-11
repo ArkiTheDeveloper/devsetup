@@ -1,3 +1,3 @@
 Setting up postgres 
   - cd to homebrew's postgres directory
-  - CREATE USER postgres SUPERUSER;
+  - createuser -s postgres
